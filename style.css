@@ -34,13 +34,12 @@ body {
 }
 
 .background {
-  position: center;
-  background-size: fix;
-	height: 100%;
+  width: 700px;
+  height: 200px;
+  object-fit: top;
   position: absolute;
-  top: 0;
-  width: 100%;
-  overflow: hidden;
+  top: 0px;
+  left: calc(35% - 50px);
 } 
   
 section {
@@ -76,11 +75,10 @@ a {
 .card {
   background: #fff;
   box-sizing: border-box;
-  margin-top: 165px;
+  margin-top: 80px;
   padding: 55px 20px 10px 20px;
   border-radius: 5px;
   box-shadow: 1px 1px 10px rgba(0,0,0,0.1);
-
 }
 .card h1 {
   font-size: 1.25rem;
@@ -192,4 +190,3 @@ footer a {
     margin-top: 200px;
   }
 }
-
