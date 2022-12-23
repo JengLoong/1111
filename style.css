@@ -34,13 +34,9 @@ body {
 }
 
 .background {
-  width: 400px;
-  height: 250px;
-  object-fit: top;
-  position: absolute;
-  top: 0px;
-  left: calc(43% - 50px);
-} 
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
 } 
   
 section {
