@@ -34,12 +34,13 @@ body {
 }
 
 .background {
-  width: 700px;
-  height: 200px;
+  width: 400px;
+  height: 250px;
   object-fit: top;
   position: absolute;
   top: 0px;
-  left: calc(35% - 50px);
+  left: calc(43% - 50px);
+} 
 } 
   
 section {
