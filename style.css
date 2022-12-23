@@ -35,7 +35,7 @@ body {
 
 .background {
   position: center;
-  box-sizing: border-box;
+  object-fit: top;
   height: 50%;
   position: absolute;
   top: 0;
