@@ -35,12 +35,14 @@ body {
 
 .background {
   position: center;
-  background-size: 100 20;
+  -webkit-text-size-adjust: 100%!important;
+  -ms-text-size-adjust: 100%!important;
 	height: 100%;
   position: absolute;
   top: 0;
   width: 100%;
   overflow: hidden;
+} 
 } 
   
 section {
