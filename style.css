@@ -35,9 +35,8 @@ body {
 
 .background {
   position: center;
-  -webkit-text-size-adjust: 100%!important;
-  -ms-text-size-adjust: 100%!important;
-	height: 100%;
+  box-sizing: border-box;
+  height: 50%;
   position: absolute;
   top: 0;
   width: 100%;
