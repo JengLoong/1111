@@ -36,12 +36,11 @@ body {
 .background {
   position: center;
   object-fit: top;
-  height: 50%;
+  height: 100%;
   position: absolute;
   top: 0;
   width: 100%;
   overflow: hidden;
-} 
 } 
   
 section {
