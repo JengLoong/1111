@@ -57,6 +57,22 @@ a {
   position: relative;
 }
 
+.logo {
+  text-align: center;
+}
+.logo a {
+  color: #00b6b1;
+}
+.logo a:not(:last-child) {
+  margin-right: 5px;
+}
+.logo a:hover {
+  opacity: 0.5;
+}
+.logo svg {
+  font-size: 36px;
+}
+
 .profile {
   width: 150px;
   height: 150px;
