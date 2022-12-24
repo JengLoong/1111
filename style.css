@@ -163,29 +163,5 @@ footer a {
   color: #00b6b1;
 }
 
-@media only screen and (min-width: 768px) {
-  .background-text {
-    font-size: 220px;
-  }
-  .card {
-    margin-top: 150px;
-  }
-}
 
-@media only screen and (min-width: 992px) {
-  .background-text {
-    font-size: 250px;
-  }
-  .card {
-    margin-top: 180px;
-  }
-}
-
-@media only screen and (min-width: 1200px) {
-  .background-text {
-    font-size: 300px;
-  }
-  .card {
-    margin-top: 200px;
-  }
 }
