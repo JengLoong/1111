@@ -82,7 +82,7 @@ a {
   border: darkblue solid;
   object-fit: top;
   position: absolute;
-  top: 265px;
+  top: 200px;
   left: calc(65% - 50px);
 }
 
