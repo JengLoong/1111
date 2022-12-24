@@ -37,10 +37,8 @@ body {
   margin: auto;
 } 
 
-logo {
-  max-width: 100%;	
-}	
 .logo {
+  max-width: 100%;
   text-align: center;
 }
 .logo a {
