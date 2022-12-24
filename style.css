@@ -64,7 +64,7 @@ a {
   border: darkblue solid;
   object-fit: top;
   position: absolute;
-  top: 60px;
+  top: 50px;
   left: calc(65% - 50px);
 }
 
