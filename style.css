@@ -67,7 +67,7 @@ a {
   object-fit: top;
   position: absolute;
   top: 35px;
-  left: calc(70% - 50px);
+  left: calc(65% - 50px);
 }
 
 .card {
@@ -81,7 +81,7 @@ a {
 
 .card h1 {
   font-size: 1.5rem;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 .card h2 {
   font-size: 1rem;
