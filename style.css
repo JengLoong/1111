@@ -35,6 +35,7 @@ body {
   max-width: 1000px;
   position: relative;
   margin: auto;
+  margin-top: -8.5px;
 } 
 
 .logo {
