@@ -40,7 +40,8 @@ body {
 .logo {
   max-width: 100%;
   text-align: center;
-  margin-top: 75px;
+  margin-top: 95px;
+  margin-bottom: -10px;	
 }
 .logo a {
   color: #00b6b1;
