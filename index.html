@@ -99,7 +99,24 @@
     <a href="https://buy.o.my/angelcardreading1111"> <span class="iconify" data-icon="ic:round-cloud-download" width="20" height="12" data-inline="false"></span> Save My Contact</a>
   </section>
 
-<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top <script> // Get the button:
+let mybutton = document.getElementById("myBtn");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0; // For Safari
+  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+}</script></button>
 
 <footer>
   <p>&copy; <a href="https://www.facebook.com/jengloong0407/">政隆</a></p>
