@@ -10,20 +10,6 @@
  */
 
 body {
-	background: linear-gradient(-65deg,#92effd ,#92effd , #2e3192, #516395);
-	background-size: 400 400;
-}
-
-@keyframes gradient {
-	0% {
-		background-position: 0% 50%;
-	}
-	50% {
-		background-position: 100% 50%;
-	}
-	100% {
-		background-position: 0% 50%;
-	}
   color: #424242;
   font-family: -apple-system,BlinkMacSystemFont,Helvetica Neue,PingFang,Microsoft YaHei,Source Han Sans TC,Noto Sans CJK TC,WenQuanYi Micro Hei,sans-serif;
   border-top: 9px solid #00b6b1;
